@@ -34,7 +34,7 @@ export default {
   data() {
     return {
       movies: [],
-      apiKey: "YOUR_API_KEY_HERE",
+      apiKey: "f3fd8aae6d919523c9afbf7a722da2a5",
     };
   },
   methods: {
